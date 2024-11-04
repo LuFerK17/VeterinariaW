@@ -237,6 +237,7 @@
     <Folder Include="DAL\" />
     <Folder Include="Models\" />
     <Folder Include="Pages\" />
+    <Folder Include="Prueba\" />
     <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
